@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkone"]=self["webpackChunkone"]||[]).push([[18],{4018:function(n,a,r){r.r(a),r.d(a,{default:function(){return f}});var o=r(3396);const t={class:"navbar"},e=(0,o.uE)('<div class="dropdown"><button class="dropbtn"> Dropdown <i class="fa fa-caret-down"></i></button><div class="dropdown-content"><a href="#">Link 1</a><a href="#">Link 2</a><a href="#">Link 3</a></div></div>',1),s=[e];function c(n,a,r,e,c,d){return(0,o.wg)(),(0,o.iD)("div",t,s)}var d={},i=r(89);const u=(0,i.Z)(d,[["render",c]]);var f=u}}]);
+//# sourceMappingURL=18.d3032382.js.map
